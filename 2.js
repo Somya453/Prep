@@ -22,9 +22,9 @@ console.log(nam, abc);
 //map:give updated array
 //forEach: no return value
 
-function sum(a) {
-    return a + b {
-        return a + b;
-    };
-}
-console.log(sum(1)(2));
+// function sum(a) {
+//     return a + b {
+//         return a + b;
+//     };
+// }
+// console.log(sum(1)(2));
