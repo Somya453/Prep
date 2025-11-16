@@ -19,3 +19,17 @@ if ([]==emptyArray) {
 } else {
     console.log("This is false");
 }
+
+
+if ([]==true) {
+    console.log("This is true");
+} else {
+    console.log("This is false");
+}
+
+
+if ([]) {
+    console.log("This is true");
+} else {
+    console.log("This is false");
+}
