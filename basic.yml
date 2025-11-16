@@ -1,0 +1,30 @@
+# YAML Basic Structure Example
+
+student1:
+  name: Raju
+  age: 30
+  city: Mumbai
+  profession: Engineer
+  hobbies:
+  - reading
+  - traveling
+  - cooking
+
+
+# Dictionary example
+  skills:
+    programming: advanced
+    communication: intermediate
+    management: beginner
+
+
+
+student2:
+  name: Anjali
+  age: 28
+  city: Delhi
+  profession: Designer
+  hobbies:
+  - painting
+  - music
+  - hiking
