@@ -40,6 +40,9 @@ console.log(age);
 
 
 
-function abc() {
-    console.log("Hello World");
+function abc(a,  ...b) {
+    console.log(b, typeof b);
 }
+
+
+abc(10, 2, 8);
